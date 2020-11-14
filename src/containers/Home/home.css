@@ -1,0 +1,15 @@
+.inputNav{
+    width: 500px !important;
+}
+.sellbutton{
+    border: blue 3px solid;
+    border-radius: 10px;
+}
+*{
+    font-size: medium;
+    border: black 1px solid;
+
+}
+.Nav.Link{
+    padding-bottom: 0px;
+}
